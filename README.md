@@ -2,3 +2,4 @@
 
 - contains all the common features from main
 - Own features
+- common feature from @feature/add-common-text
