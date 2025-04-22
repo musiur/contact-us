@@ -4,3 +4,4 @@
 - contains own features
 - common feature from @feature/add-common-text
 - unique feature from @feature/unique-to-usa
+- new common feature from @feature/new-common-feature
